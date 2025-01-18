@@ -1,0 +1,35 @@
+Jensen Huang, the founder of NVIDIA, delivered the keynote address at the opening of CES 2025.
+The venue was filled with excitement, anticipation, and curiosity. His confident and charismatic speech captivated the audience in an instant.
+Along with the speech, I analyzed the key themes presented in his keynote as a judge for the CES 2025 Innovation Awards.
+Huang's keynote can be summarized as advancements in AI and computing, industrial AI and digital twins, autonomous driving and synthetic data, humanoid and general robotics, and AI agents.
+
+Innovations in AI and Computing, Opening a New Future
+Jensen Huang diagnosed that GPUs are driving a paradigm shift in modern computing.
+He explained the transition from CPU-based computing to GPU-based accelerated computing, noting that AI is becoming the central axis of computing infrastructure.
+He also emphasized that NVIDIA’s CUDA (Compute Unified Device Architecture) enables complex AI algorithms to be efficiently processed through programmable GPUs, making a wide range of AI research and applications possible.
+Furthermore, AI is evolving to a new dimension by acquiring the ability to comprehensively understand and generate text, images, and speech.
+
+AI and Digital Twins, Leading Industrial Innovation
+Jensen Huang predicted that digital twins would connect AI with the physical world to drive industrial innovation.
+He explained that NVIDIA's Omniverse platform simulates physical environments digitally, and Cosmos combines AI with physical data to enhance simulations.
+Huang asserted that this enables the design of optimal processes in manufacturing, logistics, and energy industries, driving industrial innovation.
+Digital twins, as powerful tools capable of replicating and optimizing all physical environments digitally, will transform the future of manufacturing and logistics industries through AI evolution.
+
+AI Synthetic Data, Ushering in a New Era of Autonomous Driving Safety
+Jensen Huang particularly emphasized the importance of synthetic data in advancing autonomous driving technology.
+He noted that AI models for autonomous vehicles are trained with synthetic data, which supplements real-world data and enhances the reliability of the technology.
+Synthetic data generated through Omniverse and Cosmos allows various driving scenarios to be simulated, improving the accuracy of AI models and enhancing vehicle safety.
+
+AI and the Era of Coexistence with Humanoids
+Jensen Huang predicted that robotics, when combined with AI, will open a new era of collaboration between humans and robots.
+He particularly envisioned that advancements in humanoid and general robotics would complement human labor and create new possibilities.
+In the future, humanoid robots will mimic human movements and operate in various industrial fields. As they learn from vast synthetic data and real-world data, they will be able to perform increasingly complex tasks.
+Humanoid robots will go beyond merely replacing human labor and become tools that create new value through collaboration with humans. This is expected to accelerate changes in the manufacturing and service industries.
+
+AI, Creating a New Workforce
+Jensen Huang predicted that AI would create a new workforce and restructure the existing labor market.
+This does not simply mean replacing human jobs but signifies creating new forms of work through collaboration with AI.
+A world of AI-based agents will emerge, acting as digital employees that assist humans in fields like data analysis, customer service, and software development.
+This will make creative tasks and problem-solving abilities utilizing AI the core of the new labor market. Jensen Huang emphasized that AI amplifies human capabilities and will build a better society through the coexistence of technology and humanity.
+
+Huang’s keynote emphasized that AI is not just a technological advancement but a central force of innovation that fundamentally changes the structure of society and industries. He discussed the possibilities of designing the future collaboratively with AI and humanity. Now, let us prepare for the new era that AI will usher in and explore the innovations created by the coexistence of technology and humanity, as stated in the CES 2025 slogan, "DIVE IN."
